@@ -51,6 +51,19 @@ Learn how to prepare real-world data for machine learning tasks through:
 
 - Distribution plots
 - Boxplots for detecting outliers
+### output(SCREEN SHOTS)
+![Screenshot 2025-05-26 114731](https://github.com/user-attachments/assets/db696ebb-509a-4540-98c5-6a112358b852)
+![Screenshot 2025-05-26 114951](https://github.com/user-attachments/assets/9f7b96a6-0084-4474-9d8a-2c163600eadc)
+![Screenshot 2025-05-26 115033](https://github.com/user-attachments/assets/e724ccd7-9c70-4700-a00d-994ee95c0f86)
+![Screenshot 2025-05-26 115104](https://github.com/user-attachments/assets/0fcafcf4-e61a-444f-8cab-61c9ed5cf3b5)
+![Screenshot 2025-05-26 115313](https://github.com/user-attachments/assets/9c1e48e5-0e2e-4e99-9da2-b78c908a9263)
+![image](https://github.com/user-attachments/assets/f16b22f1-1533-442a-a7a8-ce23d5338227)
+
+
+
+
+
+
 
 
 
